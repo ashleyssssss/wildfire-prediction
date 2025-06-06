@@ -1,9 +1,5 @@
 # Repository Description
-This repository contains the codebase and models developed for our research project on wildfire prediction using deep learning, specifically Convolutional Neural Networks (CNNs). The project uses MODIS satellite imagery and implements several lightweight CNN architectures to predict wildfire risk or presence.
-
-Using satellite image data, we aim to develop an efficient deep-learning pipeline for wildfire classification. The task was initially framed as a semantic segmentation problem, but it was later converted to a classification task due to data limitations and project constraints.
-
-This repository includes earlier attempts at segmentation-based modelling and the final classification-based pipeline.
+This repository contains the codebase and models developed for our research project on wildfire prediction using deep learning, specifically Convolutional Neural Networks (CNNs). The project uses MODIS satellite imagery and implements several lightweight CNN architectures to predict wildfire risk or presence. It includes earlier attempts at segmentation-based modelling and the final classification-based pipeline.
 
 # File Descriptions
 ### DataCollection.ipynb -- Vince Guan
