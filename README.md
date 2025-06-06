@@ -21,7 +21,7 @@ This is the script used to replicate our results.
 This is the saved model (in Keras format) that achieved the best performance across all tested architectures. Load this model to reproduce the results consistent with those in the report.
 
 ---------------------------------------
-Before our task type is converted to a classification task, our attempts at the codec structure are shown in the following file. Since the processing of the dataset has changed, the output of the program cannot be reproduced:
+Before our task type is converted to a classification task, our attempts at the codec structure are shown in the following file:
 
 ### Modification_Loss.ipynb (Deprecated) -- Bimo Danindro
 Earlier experiment using ResNet50V2 and custom loss functions (Focal + Dice). No longer maintained or reproducible due to task shift (segmentation → classification).
